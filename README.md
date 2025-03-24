@@ -133,11 +133,11 @@ python braincrypt.py
 
 📧 Email: **shiboshreeroy169@gmail.com**  
 🐙 GitHub: **[ShiboshreeRoy](https://github.com/shiboshreeroy)**  
-```
 
----
+
 
 ### **🔹 Additional Resources**
+
 If you want to improve BrainCrypt further, here are some useful references:
 
 1. **AES-GCM Implementation**:  
@@ -148,7 +148,3 @@ If you want to improve BrainCrypt further, here are some useful references:
 
 3. **Best Practices for Secure Encryption**:  
    [https://owasp.org/www-community/Using_the_Right_Encryption_Algorithm](https://owasp.org/www-community/Using_the_Right_Encryption_Algorithm)
-
----
-
-This **README.md** makes BrainCrypt look **professional and ready for deployment**! 🚀 Let me know if you want to add anything else. 😊
