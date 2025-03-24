@@ -131,8 +131,8 @@ python braincrypt.py
 
 ## 💬 Support & Contact
 
-📧 Email: **your.email@example.com**  
-🐙 GitHub: **[@yourusername](https://github.com/yourusername)**  
+📧 Email: **shiboshreeroy169@gmail.com**  
+🐙 GitHub: **[@yourusername](https://github.com/shiboshreeroy)**  
 ```
 
 ---
