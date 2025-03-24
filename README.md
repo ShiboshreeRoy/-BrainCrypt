@@ -132,7 +132,7 @@ python braincrypt.py
 ## 💬 Support & Contact
 
 📧 Email: **shiboshreeroy169@gmail.com**  
-🐙 GitHub: **[@yourusername](https://github.com/shiboshreeroy)**  
+🐙 GitHub: **[ShiboshreeRoy](https://github.com/shiboshreeroy)**  
 ```
 
 ---
